@@ -223,12 +223,15 @@ body {
 }
 .loginlink{
     color: #648023!important;
+    font-size: 17px;
 }
 .questionscreen{
     color: #648023!important;
+    font-size: 17px;
 }
 .startquizscreen{
     color: #648023!important;
+    font-size: 17px;
 }
 p{
     text-align: center;
