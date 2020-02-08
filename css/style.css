@@ -20,10 +20,15 @@ body {
     width: 60%;
     margin-left: 80px;
 }
-.homescreentext{
+.logginmessage{
+    text-align: center;
+    color: #4d4d4d;
+    margin-top:10%;
+}
+/*.homescreentext{
     margin-left: 110px;
     margin-top:20%;
-}
+}*/
 .btn-primary{
     margin-left: 93px;
     background-color: white;
