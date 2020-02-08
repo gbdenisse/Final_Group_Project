@@ -21,14 +21,11 @@ body {
     margin-left: 80px;
 }
 .logginmessage{
-    margin-left: 125px;
+    text-align: center;
     color: #4d4d4d;
     margin-top:10%;
 }
-/*.homescreentext{
-    margin-left: 110px;
-    margin-top:20%;
-}*/
+
 .btn-primary{
     margin-left: 93px;
     background-color: white;
