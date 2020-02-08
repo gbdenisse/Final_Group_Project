@@ -197,4 +197,43 @@ input[type="range"]::-webkit-slider-thumb {
     font-size: 17px!important;  
 }
 
- 
+ /*IndexScreentoaccesslinks*/
+
+body {
+    font-family: 'PT Sans', sans-serif!important;
+}
+#screensize2{
+    height: 812px;
+    width: 375px;
+    background-image: linear-gradient(to right top, #cccaa4 , #ffffff);
+}
+.logoa{
+    width: 200px;
+    height: 200px;
+    margin-left: 90px;
+    margin-top: 30%;
+}
+.logob{
+    width: 80%;
+    margin-left: 40px;
+}
+.logoc{
+    width: 60%;
+    margin-left: 80px;
+}
+.loginlink{
+    color: #648023!important;
+}
+.questionscreen{
+    color: #648023!important;
+}
+.startquizscreen{
+    color: #648023!important;
+}
+p{
+    text-align: center;
+    
+}
+.projectlinks{
+    margin-top: 20%;
+}
